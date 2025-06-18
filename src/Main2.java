@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Clear_Empty {
+public class Main2 {
     public static void main(String[] args) {
         List<String> fruits = new ArrayList<String>();
 
